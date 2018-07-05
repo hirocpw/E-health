@@ -8,3 +8,11 @@ This website allows users to enter their daily energy intake, and some basic phy
 Since I'm not a nutritionist, nor an expert in doing exercise, so the algorithm I created wasn't entirely correct. And I would like to allow more information from the users to be entered in order to analyze the data and give a more accurate result.
 
 This project was a school project, some of my teammate did an extremely crappy job, so the status of the whole project was not perfect, I have to cut down many features so that I can meet the deadline. But still, I managed to get a positive feedback from the stakeholders.
+
+# Technique
+I used a local mysql database, I never brought this project online. The information of how to use my database is uploaded as well.
+
+Basically, I only wrote PHP, the whole theme was downloaded in the WordPress.
+
+# Bugs
+The functions are very simple and ease, so there may not be any apparent bugs.

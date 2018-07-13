@@ -12,4 +12,6 @@ username: magic4
 hostname: choose - localhost
 password: magic4
 Global privileges: Check all
+
+Admin username and password should be: magic4 and magic4magic4
  
